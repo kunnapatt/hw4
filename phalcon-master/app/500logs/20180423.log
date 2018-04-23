@@ -1,0 +1,24 @@
+[Mon, 23 Apr 18 18:20:34 +0700][ERROR] [0]: Syntax error, unexpected token LIMIT, near to ' :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE id= LIMIT :APL0: (52)
+
+[Mon, 23 Apr 18 18:20:36 +0700][ERROR] [0]: Syntax error, unexpected token LIMIT, near to ' :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE id= LIMIT :APL0: (52)
+
+[Mon, 23 Apr 18 18:20:37 +0700][ERROR] [0]: Syntax error, unexpected token LIMIT, near to ' :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE id= LIMIT :APL0: (52)
+
+[Mon, 23 Apr 18 18:20:46 +0700][ERROR] [0]: Syntax error, unexpected token LIMIT, near to ' :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE id= LIMIT :APL0: (52)
+
+[Mon, 23 Apr 18 18:20:47 +0700][ERROR] [0]: Syntax error, unexpected token LIMIT, near to ' :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE id= LIMIT :APL0: (52)
+
+[Mon, 23 Apr 18 18:20:48 +0700][ERROR] [0]: Syntax error, unexpected token LIMIT, near to ' :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE id= LIMIT :APL0: (52)
+
+[Mon, 23 Apr 18 18:20:49 +0700][ERROR] [0]: Syntax error, unexpected token LIMIT, near to ' :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE id= LIMIT :APL0: (52)
+
+[Mon, 23 Apr 18 18:20:50 +0700][ERROR] [0]: Syntax error, unexpected token LIMIT, near to ' :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE id= LIMIT :APL0: (52)
+
+[Mon, 23 Apr 18 18:22:52 +0700][ERROR] [0]: Syntax error, unexpected token LIMIT, near to ' :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE id= LIMIT :APL0: (52)
+
+[Mon, 23 Apr 18 18:23:09 +0700][ERROR] [0]: Syntax error, unexpected token LIMIT, near to ' :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE id= LIMIT :APL0: (52)
+
+[Mon, 23 Apr 18 18:23:10 +0700][ERROR] [0]: Syntax error, unexpected token LIMIT, near to ' :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE id= LIMIT :APL0: (52)
+
+[Mon, 23 Apr 18 18:25:41 +0700][ERROR] [0]: Syntax error, unexpected token LIMIT, near to ' :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE id= LIMIT :APL0: (52)
+
